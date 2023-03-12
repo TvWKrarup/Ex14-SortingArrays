@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex14 SortingArrays", "Ex14 SortingArrays\Ex14 SortingArrays.csproj", "{BA109FF8-50A5-4CB5-81AA-C6FE9A473611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSortingArrays", "UnitTestSortingArrays\UnitTestSortingArrays.csproj", "{DACB23AE-0C8B-454A-853F-EAAD63FC09CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA109FF8-50A5-4CB5-81AA-C6FE9A473611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA109FF8-50A5-4CB5-81AA-C6FE9A473611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA109FF8-50A5-4CB5-81AA-C6FE9A473611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA109FF8-50A5-4CB5-81AA-C6FE9A473611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACB23AE-0C8B-454A-853F-EAAD63FC09CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACB23AE-0C8B-454A-853F-EAAD63FC09CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACB23AE-0C8B-454A-853F-EAAD63FC09CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACB23AE-0C8B-454A-853F-EAAD63FC09CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D7CFB7-EF84-4E4A-AEA4-862604A3F93D}
+	EndGlobalSection
+EndGlobal
